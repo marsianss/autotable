@@ -1,0 +1,8 @@
+requests==2.32.5
+python-dotenv==1.2.1
+tenacity==9.1.2
+xmltodict==1.0.2
+loguru==0.7.3
+googletrans==4.0.0rc1
+diskcache==5.6.3
+tqdm==4.67.1
